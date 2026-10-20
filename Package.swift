@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkSmartdigimktCNAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkSmartdigimktCNAdapter/6.5.90.2.1/AnyThinkSmartdigimktCNAdapter-6.5.90.2.1.zip",
-            checksum: "08402c875503d6ad9c3488d626fd26a99e2938d1e65d0a7d0fbaa5e83cb157a9"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkSmartdigimktCNAdapter/6.5.90.2.9/AnyThinkSmartdigimktCNAdapter-6.5.90.2.9.zip",
+            checksum: "8a016cfca7f9757ec776aa4f20e40fab417ed53a3740e8856ecfeafef4466892"
         ),
         .target(
             name: "TPNMediationAdxSmartdigimktCNAdapterTarget",
